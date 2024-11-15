@@ -27,7 +27,7 @@ Create an Express route `/users` that responds to GET requests with a JSON objec
 Your project folder should look like this:  
 
 ```bash  
-problem-17-json-users/  
+17-express-route-json-respond-node-problem/  
 ├── server.js             # Express server script  
 ├── README.md             # Documentation for this problem  
 └── package.json          # Project configuration file  
