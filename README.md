@@ -8,9 +8,7 @@ Welcome to the seventeenth challenge in the Node.js problem series! 🚀 In this
 
 Create an Express route `/users` that responds to GET requests with a JSON object containing a list of users. Each user object should include the following fields:  
 
-- `id`: A unique identifier.  
 - `name`: The user's name.  
-- `email`: The user's email address.  
 
 ---
 
